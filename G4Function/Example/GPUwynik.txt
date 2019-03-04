@@ -1,0 +1,21 @@
+Simulation parameters
+--------------------------------------
+ Cell size: (23.031540,23.031540,23.031540)
+ LJsigma=3.400000
+# of particles: 256
+# of time points: 800
+-----------------------
+Number of pairs: 32640
+-------------------------
+CUDA memory: 105.00 MB
+Beta Table load time 0.579606 [s] 
+Current device used: 0 (GeForce GTX 960M)
+GPU allocation time: 0.504000 ms
+Transfer time to GPU: 17.291000 ms
+Block shared memory: 16384 Bytes
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+G4 function running from 0 to 1 every 1 steps
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Step 0 G4=39.7569274902 Resolve time: 49.641289 s
+Time in GPU: 49.641289 s
+

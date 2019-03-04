@@ -1,0 +1,16 @@
+------Simulation parameters------
+Cell size: (23.031540,23.031540,23.031540)
+Sigma: 3.400000
+# of particles: 256
+# of simulation points: 800
+Memory used: 211620996 bytes
+Anisotropy table creation time: 1.495329 s
+----------------------------------------
+Calcuating G4 function for 256 atoms.
+From step 0 to step 0 every 1 step
+----------------------------------------
+step=0 t=0.000000 [ps] Cvv=39.7905845642 time: 965.382296 s
+---------------------------------------
+Calculation completed
+---------------------------------------
+

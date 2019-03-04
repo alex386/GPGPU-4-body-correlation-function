@@ -1,0 +1,5 @@
+cd ../Linux/CPU
+make
+cd ../../Example
+../Linux/CPU/G4CPU Points.xyz
+

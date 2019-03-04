@@ -1,0 +1,5 @@
+cd ../Linux/GPU_CUDA
+make
+cd ../../Example
+../Linux/GPU_CUDA/G4GPU Points.xyz
+
